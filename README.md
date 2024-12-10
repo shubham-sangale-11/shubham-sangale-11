@@ -27,7 +27,7 @@ Here are some of the technologies and tools I work with:
 
 ## ✨ Fun Facts  
 - 🧠 Constantly curious about emerging technologies like **Teachable Machine Models**  
-- 🎯 Aiming to contribute to innovative mid-sized startups that value teamwork and creativity  
+- 🎯 Aiming to contribute to innovative organisations that value teamwork and creativity  
 
 ---
 
